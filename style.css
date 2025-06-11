@@ -1,0 +1,43 @@
+.jumbotron {
+  padding-top: 1rem;
+  background-color: #a9a9a9;
+}
+
+#about {
+  padding-top: 1rem;
+  background-color: #a9a9a9;
+  margin-top: 50px;
+}
+
+.project {
+  padding-top: 1rem;
+  background-color: #a9a9a9;
+  margin-top: 50px;
+}
+
+.kontak {
+  padding-top: 1rem;
+  background-color: #a9a9a9;
+  margin-top: 30px;
+}
+
+.blog {
+  background-color: #a9a9a9;
+  margin-top: 30px;
+}
+.testimoni {
+  background-color: #a9a9a9;
+  margin-top: 50px;
+}
+
+/* navbar navbar-expand-lg */
+.navbar {
+  position: fixed;
+  z-index: 999;
+  width: 100%;
+  top: 0px;
+}
+
+.carousel-inner img {
+  width: 50%;
+}
