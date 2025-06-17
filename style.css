@@ -41,3 +41,22 @@
 .carousel-inner img {
   width: 50%;
 }
+.galeri {
+  background-color: #a9a9a9;
+  margin-top: 50px;
+}
+.gallery-img {
+  object-fit: cover;
+  height: 200px;
+  width: 100%;
+  transition: transform 0.3s ease;
+}
+.gallery-img:hover {
+  transform: scale(1.05);
+}
+.gallery-card {
+  border: none;
+  overflow: hidden;
+  border-radius: 15px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
